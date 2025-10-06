@@ -1,6 +1,6 @@
 Taller 5 – Bloomberg (2014–2024)
 
-Grupo D: Esteban Vergara, Juan Jose Rusinque y Juan David Paiva
+Grupo D: Esteban Vergar y Juan Jose Rusinque
 
 Descripción
 Índice bursátil multisectorial por regiones (América, Europa, Asia), con análisis pre vs. post-COVID y comparación entre promedio simple y promedio ponderado.
